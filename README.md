@@ -2,6 +2,4 @@
 
 This is really awesome website
 
-now editing on update-readme branch
-
-update locally , then remotely
+Updates made on mastter on GitHub before rebase
