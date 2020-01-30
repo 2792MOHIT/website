@@ -9,3 +9,7 @@ Updates made on mastter on GitHub before rebase
 
 This file is just Readme file
 
+## Purpose
+
+the purpose of this file is to provide examples
+on how to use Git and GitHub together.
